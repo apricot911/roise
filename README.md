@@ -1,6 +1,6 @@
 #rosie ver 1.00
 OIC2014-3C Group development.
-
+I am oniiiiipoooooonnnnnn
 =====
 
 #仮想化技術を使用した教育用Linuxの管理ツール
