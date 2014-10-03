@@ -1,9 +1,14 @@
 #rosie ver 1.00
 OIC2014-3C Group development.
-I am oniiiiipoooooonnnnnn
+I am oniiiiipoooooonnnnnn  
 =====
 
 #仮想化技術を使用した教育用Linuxの管理ツール
+##概要
+このシステムは、教育のためのLinuxインスタンスを簡易に作成・削除、操作、管理を行うことができる。各インスタンスが接続するネットワークを動的に構成することができる。
+また、このシステムの持つリソースマネジメントを行うことができる。
+
+
 ##なぜ開発しようと思ったか
 * 授業でシステムの構築に時間がかかっていることに対して不満を持っていた。
 * VMware Playerを使用するとGUI操作をしてしまい、CUI操作をしない人が多い
@@ -37,4 +42,3 @@ I am oniiiiipoooooonnnnnn
 
 ###マネージャ
 Webで管理できるようにする。
-
